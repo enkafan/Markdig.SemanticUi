@@ -5,6 +5,9 @@ Extension to use SemanticUi classes with Markdig.
 * Adds `ui table` to table elements (when the advanced extension is also used)
 * Adds `ui spaced image` to images
 
+[![Build status](https://ci.appveyor.com/api/projects/status/a7oka6r4w94ehe99/branch/master?svg=true)](https://ci.appveyor.com/project/enkafan/markdig-semanticui/branch/master) [![CodeFactor](https://www.codefactor.io/repository/github/enkafan/markdig.semanticui/badge)](https://www.codefactor.io/repository/github/enkafan/markdig.semanticui)
+
+
 ## Examples
 
 Images
